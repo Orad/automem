@@ -2,14 +2,14 @@
 -r requirements.txt
 
 # Development tools
-pytest==8.3.4
-black==24.8.0
+pytest==9.0.3
+black==26.10.1
 flake8==7.1.1
 isort==5.13.2
 pre-commit==4.0.1
 
 # Benchmark evaluation (LoCoMo official metrics)
-nltk==3.9.1
+nltk==3.10.4
 
 # Real-time monitoring CLI (automem_watch.py)
 rich>=13.0.0
