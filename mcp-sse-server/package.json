@@ -8,8 +8,8 @@
     "test": "node --test"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "1.20.0",
-    "express": "^4.19.2"
+    "@modelcontextprotocol/sdk": "1.32.2",
+    "express": "^4.22.3"
   },
   "devDependencies": {
     "@verygoodplugins/mcp-automem": "^0.15.0"
